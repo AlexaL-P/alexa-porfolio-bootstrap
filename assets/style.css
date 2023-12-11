@@ -1,6 +1,55 @@
-.work img {
-min-width: 200px;
-min-height: auto;
-max-width: 50%;
-max-height: auto;
+
+.alexa-bg {
+    background-image: url(./pictures/alexa-landscape-tech.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 80%;
 }
+
+.alexa-bg, h1 p {
+    color: gold;
+    text-shadow: 3px 3px darkred;
+}
+
+.work img {
+    cursor: pointer;
+    min-width: 200px;
+    min-height: auto;
+    max-width: 50%;
+    max-height: auto;
+}
+
+.contact, a {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    color: white;
+    text-decoration: none;
+    background-color: darkgreen;
+    font-size: xx-large;
+}
+
+.card-title, .card-text {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    text-shadow: 2px 2px darkred;
+    background-color: rgba(0, 0, 0, 0.11);
+}
+
+
+a:hover {
+    box-shadow: 10px 10px 5px black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin: auto;
+}
+
+.card {
+    margin: 20px 20px;
+}
+
