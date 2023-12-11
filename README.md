@@ -18,7 +18,7 @@ You can find links to any deployed applications I have completed.
 
 ## Credits
 
-N/A
+Jumbotron credit to edX as it is not a listed bootstrap item any more.
 
 ## License
 
